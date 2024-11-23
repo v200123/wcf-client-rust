@@ -115,7 +115,7 @@ if __name__ == "__main__":
 
 #### 安装 tauri-cli
 ```sh
-cargo install tauri-cli
+cargo install tauri-cli@1.6.4
 ```
 
 #### 安装 Protoc
